@@ -1,0 +1,12 @@
+:set hls
+nnoremap <space>/ :noh<CR>
+nnoremap <space>w <c-w>
+nnoremap <space>gh gT
+nnoremap <space>gl gt
+nnoremap <space>a ggVG
+nnoremap <space>f :format<CR>
+
+vnoremap <space>f :format<CR>
+
+inoremap <c-h> <Left>
+inoremap <c-l> <Right>
