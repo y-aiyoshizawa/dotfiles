@@ -1,5 +1,6 @@
 :set hls
 :set clipboard=unnamed
+:set ignorecase
 
 nnoremap <space>/ :noh<CR>
 nnoremap <space>w <c-w>
