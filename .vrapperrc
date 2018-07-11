@@ -1,4 +1,6 @@
 :set hls
+:set clipboard=unnamed
+
 nnoremap <space>/ :noh<CR>
 nnoremap <space>w <c-w>
 nnoremap <space>gh gT
